@@ -1,0 +1,365 @@
+,user,movie,predicted,movie name
+363,56,63082,5.0,Slumdog Millionaire (2008)
+262,56,4993,5.0,"Lord of the Rings: The Fellowship of the Ring, The (2001)"
+259,56,4920,5.0,"Now, Voyager (1942)"
+258,56,4914,5.0,Breathless (À bout de souffle) (1960)
+121,56,1237,5.0,"Seventh Seal, The (Sjunde inseglet, Det) (1957)"
+255,56,4432,5.0,Sweet Smell of Success (1957)
+123,56,1242,5.0,Glory (1989)
+253,56,4298,5.0,Rififi (Du rififi chez les hommes) (1955)
+126,56,1248,5.0,Touch of Evil (1958)
+127,56,1250,5.0,"Bridge on the River Kwai, The (1957)"
+128,56,1251,5.0,8 1/2 (1963)
+129,56,1252,5.0,Chinatown (1974)
+131,56,1254,5.0,"Treasure of the Sierra Madre, The (1948)"
+132,56,1256,5.0,Duck Soup (1933)
+250,56,4194,5.0,I Know Where I'm Going! (1945)
+134,56,1259,5.0,Stand by Me (1986)
+135,56,1260,5.0,M (1931)
+136,56,1262,5.0,"Great Escape, The (1963)"
+137,56,1264,5.0,Diva (1981)
+249,56,4144,5.0,In the Mood For Love (Fa yeung nin wa) (2000)
+248,56,4037,5.0,House of Games (1987)
+260,56,4928,5.0,That Obscure Object of Desire (Cet obscur objet du désir) (1977)
+116,56,1230,5.0,Annie Hall (1977)
+291,56,6643,5.0,Tokyo Story (Tôkyô monogatari) (1953)
+115,56,1228,5.0,Raging Bull (1980)
+92,56,1197,5.0,"Princess Bride, The (1987)"
+93,56,1198,5.0,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
+290,56,6611,5.0,Umberto D. (1952)
+95,56,1200,5.0,Aliens (1986)
+289,56,6433,5.0,"Man with the Movie Camera, The (Chelovek s kino-apparatom) (1929)"
+195,56,2920,5.0,Children of Paradise (Les enfants du paradis) (1945)
+98,56,1204,5.0,Lawrence of Arabia (1962)
+285,56,6273,5.0,In a Lonely Place (1950)
+284,56,6254,5.0,"Awful Truth, The (1937)"
+282,56,6023,5.0,Band of Outsiders (Bande à part) (1964)
+278,56,5952,5.0,"Lord of the Rings: The Two Towers, The (2002)"
+104,56,1212,5.0,"Third Man, The (1949)"
+275,56,5825,5.0,"Life and Death of Colonel Blimp, The (1943)"
+107,56,1217,5.0,Ran (1985)
+109,56,1219,5.0,Psycho (1960)
+267,56,5291,5.0,Rashomon (Rashômon) (1950)
+266,56,5147,5.0,Wild Strawberries (Smultronstället) (1957)
+113,56,1224,5.0,Henry V (1989)
+264,56,5017,5.0,"Big Heat, The (1953)"
+247,56,4011,5.0,Snatch (2000)
+242,56,3801,5.0,Anatomy of a Murder (1959)
+240,56,3741,5.0,Badlands (1973)
+239,56,3730,5.0,"Conversation, The (1974)"
+171,56,2019,5.0,Seven Samurai (Shichinin no samurai) (1954)
+172,56,2028,5.0,Saving Private Ryan (1998)
+173,56,2066,5.0,Out of the Past (1947)
+202,56,2959,5.0,Fight Club (1999)
+175,56,2186,5.0,Strangers on a Train (1951)
+176,56,2203,5.0,Shadow of a Doubt (1943)
+178,56,2324,5.0,Life Is Beautiful (La Vita è bella) (1997)
+179,56,2329,5.0,American History X (1998)
+181,56,2351,5.0,"Nights of Cabiria (Notti di Cabiria, Le) (1957)"
+200,56,2937,5.0,"Palm Beach Story, The (1942)"
+184,56,2571,5.0,"Matrix, The (1999)"
+186,56,2726,5.0,"Killing, The (1956)"
+187,56,2731,5.0,"400 Blows, The (Les Quatre cents coups) (1959)"
+188,56,2762,5.0,"Sixth Sense, The (1999)"
+189,56,2788,5.0,Monty Python's And Now for Something Completely Different (1971)
+199,56,2936,5.0,Sullivan's Travels (1941)
+198,56,2935,5.0,"Lady Eve, The (1941)"
+196,56,2925,5.0,"Conformist, The (Il Conformista) (1970)"
+193,56,2859,5.0,Stop Making Sense (1984)
+170,56,2010,5.0,Metropolis (1927)
+205,56,3022,5.0,"General, The (1927)"
+206,56,3030,5.0,Yojimbo (1961)
+222,56,3307,5.0,City Lights (1931)
+147,56,1284,5.0,"Big Sleep, The (1946)"
+235,56,3629,5.0,"Gold Rush, The (1925)"
+149,56,1291,5.0,Indiana Jones and the Last Crusade (1989)
+233,56,3470,5.0,Dersu Uzala (1975)
+151,56,1293,5.0,Gandhi (1982)
+231,56,3468,5.0,"Hustler, The (1961)"
+229,56,3462,5.0,Modern Times (1936)
+228,56,3435,5.0,Double Indemnity (1944)
+218,56,3134,5.0,"Grand Illusion (Grande illusion, La) (1937)"
+207,56,3035,5.0,Mister Roberts (1955)
+158,56,1446,5.0,Kolya (Kolja) (1996)
+216,56,3095,5.0,"Grapes of Wrath, The (1940)"
+161,56,1704,5.0,Good Will Hunting (1997)
+215,56,3091,5.0,Kagemusha (1980)
+213,56,3089,5.0,"Bicycle Thief, The (Ladri di biciclette) (1948)"
+164,56,1927,5.0,All Quiet on the Western Front (1930)
+208,56,3037,5.0,Little Big Man (1970)
+166,56,1945,5.0,On the Waterfront (1954)
+91,56,1196,5.0,Star Wars: Episode V - The Empire Strikes Back (1980)
+194,56,2905,5.0,Sanjuro (Tsubaki Sanjûrô) (1962)
+89,56,1189,5.0,"Thin Blue Line, The (1988)"
+324,56,7767,5.0,"Best of Youth, The (La Meglio gioventù) (2003)"
+332,56,8228,5.0,"Maltese Falcon, The (a.k.a. Dangerous Female) (1931)"
+331,56,8199,5.0,Ugetsu (Ugetsu monogatari) (1953)
+330,56,8125,5.0,Sunrise: A Song of Two Humans (1927)
+33,56,668,5.0,Pather Panchali (1955)
+34,56,670,5.0,"World of Apu, The (Apur Sansar) (1959)"
+327,56,7926,5.0,High and Low (Tengoku to jigoku) (1963)
+325,56,7820,5.0,"Virgin Spring, The (Jungfrukällan) (1960)"
+38,56,750,5.0,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+323,56,7766,5.0,Throne of Blood (Kumonosu jô) (1957)
+28,56,599,5.0,"Wild Bunch, The (1969)"
+321,56,7706,5.0,Animal Crackers (1930)
+42,56,898,5.0,"Philadelphia Story, The (1940)"
+43,56,899,5.0,Singin' in the Rain (1952)
+44,56,903,5.0,Vertigo (1958)
+88,56,1178,5.0,Paths of Glory (1957)
+46,56,905,5.0,It Happened One Night (1934)
+48,56,908,5.0,North by Northwest (1959)
+320,56,7700,5.0,"Wages of Fear, The (Le Salaire de la peur) (1953)"
+333,56,8477,5.0,"Pier, The (La Jetée) (1962)"
+334,56,8491,5.0,White Heat (1949)
+51,56,911,5.0,Charade (1963)
+12,56,260,5.0,Star Wars: Episode IV - A New Hope (a.k.a. Star Wars) (1977)
+362,56,60069,5.0,WALL·E (2008)
+361,56,59315,5.0,Iron Man (2008)
+360,56,58559,5.0,"Dark Knight, The (2008)"
+5,56,110,5.0,Braveheart (1995)
+6,56,111,5.0,Taxi Driver (1976)
+349,56,30749,5.0,Hotel Rwanda (2004)
+345,56,27611,5.0,Battlestar Galactica (2003)
+344,56,26729,5.0,Hearts of Darkness: A Filmmakers Apocalypse (1991)
+343,56,26614,5.0,"Bourne Identity, The (1988)"
+25,56,556,5.0,"War Room, The (1993)"
+342,56,26150,5.0,Andrei Rublev (Andrey Rublyov) (1969)
+341,56,26131,5.0,"Battle of Algiers, The (Bataille d'Alger, La) (1966)"
+339,56,25750,5.0,Sherlock Jr. (1924)
+18,56,318,5.0,"Shawshank Redemption, The (1994)"
+337,56,8620,5.0,"Exterminating Angel, The (El Ángel exterminador) (1962)"
+20,56,356,5.0,Forrest Gump (1994)
+22,56,457,5.0,"Fugitive, The (1993)"
+335,56,8580,5.0,Into the Woods (1991)
+50,56,910,5.0,Some Like It Hot (1959)
+45,56,904,5.0,Rear Window (1954)
+52,56,912,5.0,Casablanca (1942)
+64,56,945,5.0,Top Hat (1935)
+77,56,1086,5.0,Dial M for Murder (1954)
+66,56,950,5.0,"Thin Man, The (1934)"
+67,56,951,5.0,His Girl Friday (1940)
+299,56,6985,5.0,"Passion of Joan of Arc, The (La Passion de Jeanne d'Arc) (1928)"
+309,56,7153,5.0,"Lord of the Rings: The Return of the King, The (2003)"
+300,56,7013,5.0,"Night of the Hunter, The (1955)"
+70,56,955,5.0,Bringing Up Baby (1938)
+71,56,965,5.0,"39 Steps, The (1935)"
+308,56,7135,5.0,Shoot the Piano Player (Tirez sur le pianiste) (1960)
+53,56,913,5.0,"Maltese Falcon, The (1941)"
+307,56,7132,5.0,"Night at the Opera, A (1935)"
+80,56,1111,5.0,Microcosmos (Microcosmos: Le peuple de l'herbe) (1996)
+306,56,7116,5.0,Diabolique (Les Diaboliques) (1955)
+79,56,1104,5.0,"Streetcar Named Desire, A (1951)"
+302,56,7088,5.0,Black Orpheus (Orfeu Negro) (1959)
+297,56,6918,5.0,"Unvanquished, The (Aparajito) (1957)"
+65,56,947,5.0,My Man Godfrey (1936)
+63,56,942,5.0,Laura (1944)
+57,56,923,5.0,Citizen Kane (1941)
+319,56,7587,5.0,"Godson, The (Samouraï, Le) (1967)"
+313,56,7256,5.0,Touching the Void (2003)
+292,56,6650,5.0,Kind Hearts and Coronets (1949)
+312,56,7234,5.0,"Strada, La (1954)"
+293,56,6669,5.0,Ikiru (1952)
+56,56,922,5.0,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
+58,56,926,5.0,All About Eve (1950)
+59,56,928,5.0,Rebecca (1940)
+60,56,930,5.0,Notorious (1946)
+294,56,6783,5.0,"Rules of the Game, The (La Règle du jeu) (1939)"
+61,56,933,5.0,To Catch a Thief (1955)
+301,56,7043,5.0,My Life to Live (Vivre sa vie: Film en douze tableaux) (1962)
+47,56,906,4.99858103802395,Gaslight (1944)
+274,56,5782,4.998137800943588,"Professional, The (Le Professionnel) (1981)"
+251,56,4226,4.996726720140323,Memento (2000)
+139,56,1269,4.9945489067104125,Arsenic and Old Lace (1944)
+283,56,6235,4.99339561861804,Europa Europa (Hitlerjunge Salomon) (1990)
+14,56,293,4.9933529013269515,"Léon: The Professional (Léon) (Professional, The) (1994)"
+298,56,6935,4.993190719532049,"Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside the Coup) (2003)"
+287,56,6350,4.9928823000937665,Castle in the Sky (Tenkû no shiro Rapyuta) (1986)
+277,56,5932,4.992081624218594,Burden of Dreams (1982)
+270,56,5385,4.99136193501395,"Last Waltz, The (1978)"
+356,56,48516,4.989570248859938,"Departed, The (2006)"
+156,56,1358,4.989118432746743,Sling Blade (1996)
+23,56,527,4.9889899365500785,Schindler's List (1993)
+35,56,678,4.988926428302523,Some Folks Call It a Sling Blade (1993)
+26,56,581,4.988224783645595,"Celluloid Closet, The (1995)"
+140,56,1272,4.985647356143051,Patton (1970)
+241,56,3789,4.985219244821796,"Pawnbroker, The (1964)"
+76,56,1066,4.9851311556496425,Shall We Dance (1937)
+201,56,2940,4.984367494805629,Gilda (1946)
+69,56,954,4.983076108539044,Mr. Smith Goes to Washington (1939)
+336,56,8582,4.9821648330492465,Manufacturing Consent: Noam Chomsky and the Media (1992)
+1,56,47,4.980894610009059,Seven (a.k.a. Se7en) (1995)
+180,56,2330,4.9800221359631065,Hands on a Hard Body (1996)
+185,56,2692,4.9796649463396205,Run Lola Run (Lola rennt) (1998)
+159,56,1537,4.979345411508006,Shall We Dance? (Shall We Dansu?) (1996)
+352,56,37240,4.979222669660181,Why We Fight (2005)
+254,56,4427,4.978912484300728,"Lion in Winter, The (1968)"
+0,56,28,4.977037141405139,Persuasion (1995)
+168,56,1950,4.976634907097847,In the Heat of the Night (1967)
+4,56,82,4.97523909905079,Antonia's Line (Antonia) (1995)
+68,56,953,4.974703286947573,It's a Wonderful Life (1946)
+317,56,7478,4.974670832188472,Swimming to Cambodia (1987)
+223,56,3334,4.973975960598955,Key Largo (1948)
+190,56,2804,4.9736404794915225,"Christmas Story, A (1983)"
+73,56,994,4.972525109558741,Big Night (1996)
+160,56,1617,4.972357121036906,L.A. Confidential (1997)
+261,56,4973,4.972350737905581,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)"
+2,56,50,4.972055595138679,"Usual Suspects, The (1995)"
+346,56,27727,4.971239839898031,Head-On (Gegen die Wand) (2004)
+237,56,3677,4.970222613302359,Baraka (1992)
+211,56,3083,4.969532700904509,All About My Mother (Todo sobre mi madre) (1999)
+351,56,31658,4.969315735081448,Howl's Moving Castle (Hauru no ugoku shiro) (2004)
+236,56,3634,4.968201387656523,Seven Days in May (1964)
+257,56,4878,4.967325161235735,Donnie Darko (2001)
+122,56,1238,4.966269166240496,Local Hero (1983)
+75,56,1046,4.966188060296362,Beautiful Thing (1996)
+118,56,1234,4.965827663959082,"Sting, The (1973)"
+86,56,1172,4.9653650014192205,Cinema Paradiso (Nuovo cinema Paradiso) (1989)
+3,56,58,4.964019940374255,"Postman, The (Postino, Il) (1994)"
+114,56,1225,4.961661039725168,Amadeus (1984)
+27,56,593,4.961456209145566,"Silence of the Lambs, The (1991)"
+62,56,936,4.961175114872139,Ninotchka (1939)
+212,56,3088,4.960255574201983,Harvey (1950)
+150,56,1292,4.9560301857408655,Being There (1979)
+13,56,290,4.955730345724726,Once Were Warriors (1994)
+40,56,800,4.953906525719508,Lone Star (1996)
+112,56,1223,4.953834829602643,Wallace & Gromit: A Grand Day Out (1989)
+143,56,1278,4.952255513723034,Young Frankenstein (1974)
+153,56,1300,4.9515077090353,My Life as a Dog (Mitt liv som hund) (1985)
+280,56,5995,4.950778874587092,"Pianist, The (2002)"
+154,56,1303,4.9506001010129275,"Man Who Would Be King, The (1975)"
+348,56,27815,4.950518814067459,"Chorus, The (Les Choristes) (2004)"
+106,56,1214,4.949897111559734,Alien (1979)
+155,56,1304,4.948706941403636,Butch Cassidy and the Sundance Kid (1969)
+39,56,778,4.946940310208878,Trainspotting (1996)
+192,56,2858,4.946587662880486,American Beauty (1999)
+286,56,6331,4.946143433384451,Spellbound (2002)
+87,56,1175,4.945618790521497,Delicatessen (1991)
+152,56,1299,4.944693959084712,"Killing Fields, The (1984)"
+256,56,4783,4.944072742591841,"Endurance: Shackleton's Legendary Antarctic Expedition, The (2000)"
+288,56,6375,4.942848188670476,Gigantic (A Tale of Two Johns) (2002)
+31,56,632,4.9397978220774235,Land and Freedom (Tierra y libertad) (1995)
+224,56,3359,4.939309644157716,Breaking Away (1979)
+245,56,3949,4.937492377031862,Requiem for a Dream (2000)
+83,56,1136,4.93673632419716,Monty Python and the Holy Grail (1975)
+10,56,232,4.935931955224378,Eat Drink Man Woman (Yin shi nan nu) (1994)
+111,56,1222,4.934726710052866,Full Metal Jacket (1987)
+8,56,213,4.933997206339732,Burnt by the Sun (Utomlyonnye solntsem) (1994)
+54,56,916,4.9328224903547735,Roman Holiday (1953)
+119,56,1235,4.931575133529327,Harold and Maude (1971)
+78,56,1089,4.929140459519538,Reservoir Dogs (1992)
+232,56,3469,4.928580390550826,Inherit the Wind (1960)
+103,56,1211,4.925828775116201,Wings of Desire (Der Himmel über Berlin) (1987)
+85,56,1148,4.922721705628814,Wallace & Gromit: The Wrong Trousers (1993)
+350,56,31410,4.9224695575745425,Downfall (Der Untergang) (2004)
+347,56,27773,4.918978272227164,Oldboy (2005)
+252,56,4235,4.9188072013382405,Amores Perros (Love's a Bitch) (2000)
+182,56,2357,4.910797432625112,Central Station (Central do Brasil) (1998)
+355,56,48394,4.910641049681455,Pan's Labyrinth (El Laberinto del fauno) (2006)
+37,56,745,4.910049373092074,Wallace & Gromit: A Close Shave (1995)
+145,56,1281,4.90921005633943,"Great Dictator, The (1940)"
+167,56,1949,4.908338911611559,"Man for All Seasons, A (1966)"
+221,56,3265,4.908172286022517,Hard-Boiled (Lat sau san taam) (1992)
+9,56,214,4.904972717999669,Before the Rain (Pred dozhdot) (1994)
+15,56,296,4.903303194175091,Pulp Fiction (1994)
+220,56,3196,4.902633526813448,Stalag 17 (1953)
+243,56,3811,4.898491815498654,Breaker Morant (1980)
+191,56,2843,4.897711657230121,"Black Cat, White Cat (Crna macka, beli macor) (1998)"
+263,56,5008,4.891287752752336,Witness for the Prosecution (1957)
+269,56,5333,4.8885955265576,Bob le Flambeur (1955)
+82,56,1132,4.886410163656831,Manon of the Spring (Manon des sources) (1986)
+315,56,7361,4.886261172662646,Eternal Sunshine of the Spotless Mind (2004)
+358,56,55814,4.883240166107342,"Diving Bell and the Butterfly, The (Le Scaphandre et le papillon) (2007)"
+357,56,53123,4.875839776815585,Once (2006)
+214,56,3090,4.87496216271811,Matewan (1987)
+24,56,541,4.87281202499072,Blade Runner (1982)
+203,56,2973,4.872709824528183,Crimes and Misdemeanors (1989)
+177,56,2208,4.87025609796266,"Lady Vanishes, The (1938)"
+162,56,1719,4.8680164275465065,"Sweet Hereafter, The (1997)"
+108,56,1218,4.867434768621812,"Killer, The (Die xue shuang xiong) (1989)"
+74,56,1041,4.864193225346474,Secrets & Lies (1996)
+295,56,6787,4.8633222727661565,All the President's Men (1976)
+225,56,3362,4.862411679936992,Dog Day Afternoon (1975)
+204,56,3000,4.861166437815112,Princess Mononoke (Mononoke-hime) (1997)
+141,56,1273,4.8493291904333455,Down by Law (1986)
+273,56,5690,4.8341532081372325,Grave of the Fireflies (Hotaru no haka) (1988)
+244,56,3819,4.832055153229983,Tampopo (1985)
+133,56,1258,4.829981941503399,"Shining, The (1980)"
+329,56,8014,4.828813089146119,"Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003)"
+238,56,3683,4.827534693761817,Blood Simple (1984)
+353,56,38304,4.825050207580887,No Direction Home: Bob Dylan (2005)
+234,56,3504,4.818975978943363,Network (1976)
+36,56,720,4.81179775608555,Wallace & Gromit: The Best of Aardman Animation (1996)
+32,56,665,4.80792194188062,Underground (1995)
+130,56,1253,4.807698112850526,"Day the Earth Stood Still, The (1951)"
+197,56,2931,4.80070802423157,Time of the Gypsies (Dom za vesanje) (1989)
+81,56,1131,4.798490453244455,Jean de Florette (1986)
+17,56,307,4.7893217344725665,Three Colors: Blue (Trois couleurs: Bleu) (1993)
+105,56,1213,4.779556792098016,Goodfellas (1990)
+21,56,363,4.778865105704385,"Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die) (1993)"
+90,56,1193,4.769624502967357,One Flew Over the Cuckoo's Nest (1975)
+304,56,7096,4.767013935986646,Rivers and Tides (2001)
+296,56,6791,4.761323140918838,Babette's Feast (Babettes gæstebud) (1987)
+84,56,1147,4.754279705642357,When We Were Kings (1996)
+142,56,1276,4.733128141750838,Cool Hand Luke (1967)
+19,56,326,4.7326254938074275,To Live (Huozhe) (1994)
+100,56,1207,4.729870081818967,To Kill a Mockingbird (1962)
+97,56,1203,4.729106161468373,12 Angry Men (1957)
+322,56,7762,4.724659549325637,"Tinker, Tailor, Soldier, Spy (1979)"
+359,56,55820,4.724464522155879,No Country for Old Men (2007)
+7,56,162,4.721754238518153,Crumb (1994)
+272,56,5618,4.719639883172678,Spirited Away (Sen to Chihiro no kamikakushi) (2001)
+303,56,7091,4.717403330249942,Horse Feathers (1932)
+30,56,608,4.712377977231091,Fargo (1996)
+125,56,1247,4.703727872808029,"Graduate, The (1967)"
+163,56,1900,4.702752593630276,"Children of Heaven, The (Bacheha-Ye Aseman) (1997)"
+117,56,1233,4.694292920314827,"Boat, The (Das Boot) (1981)"
+72,56,969,4.674624089414056,"African Queen, The (1951)"
+55,56,919,4.654369594633041,"Wizard of Oz, The (1939)"
+217,56,3097,4.641292666799943,"Shop Around the Corner, The (1940)"
+183,56,2360,4.637344610223551,"Celebration, The (Festen) (1998)"
+94,56,1199,4.635556304834655,Brazil (1985)
+148,56,1288,4.6096497519737705,This Is Spinal Tap (1984)
+276,56,5878,4.6021689268323565,Talk to Her (Hable con Ella) (2002)
+210,56,3077,4.585309627639635,42 Up (1998)
+49,56,909,4.579978776478788,"Apartment, The (1960)"
+281,56,6016,4.556692581852687,City of God (Cidade de Deus) (2002)
+174,56,2132,4.5508394534405,Who's Afraid of Virginia Woolf? (1966)
+138,56,1267,4.544389931938304,"Manchurian Candidate, The (1962)"
+11,56,246,4.519395487908162,Hoop Dreams (1994)
+311,56,7215,4.512313094888851,To Have and Have Not (1944)
+246,56,3983,4.499050612166169,You Can Count on Me (2000)
+326,56,7925,4.49357433909322,"Hidden Fortress, The (Kakushi-toride no san-akunin) (1958)"
+144,56,1280,4.491781259503385,Raise the Red Lantern (Da hong deng long gao gao gua) (1991)
+268,56,5304,4.47427889233178,"Open City (Roma, città aperta) (1945)"
+230,56,3467,4.429499459900903,Hud (1963)
+96,56,1201,4.4239034580964125,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)"
+157,56,1361,4.423230730110412,Paradise Lost: The Child Murders at Robin Hood Hills (1996)
+99,56,1206,4.420622157495501,"Clockwork Orange, A (1971)"
+120,56,1236,4.390526330553282,Trust (1990)
+146,56,1283,4.381263106529937,High Noon (1952)
+227,56,3429,4.361568220784144,Creature Comforts (1989)
+209,56,3038,4.302669557196694,"Face in the Crowd, A (1957)"
+219,56,3152,4.168034892176445,"Last Picture Show, The (1971)"
+340,56,26082,4.1468380378958685,Harakiri (Seppuku) (1962)
+328,56,7941,4.137577740923676,Smiles Of A Summer Night (Sommarnattens leende) (1955)
+279,56,5971,4.085025244613102,My Neighbor Totoro (Tonari no Totoro) (1988)
+354,56,44555,4.047958564063748,"Lives of Others, The (Das Leben der Anderen) (2006)"
+318,56,7566,3.859592747633867,28 Up (1985)
+101,56,1208,3.8385054548963966,Apocalypse Now (1979)
+16,56,306,3.7981622948709273,Three Colors: Red (Trois couleurs: Rouge) (1994)
+271,56,5498,3.715769021030838,Red Beard (Akahige) (1965)
+338,56,8656,3.7127637453404616,"Short Film About Killing, A (Krótki film o zabijaniu) (1988)"
+169,56,1952,3.649063062680694,Midnight Cowboy (1969)
+102,56,1209,3.55147266911448,Once Upon a Time in the West (C'era una volta il West) (1968)
+110,56,1221,3.5298696915213816,"Godfather: Part II, The (1974)"
+165,56,1939,3.2332009477915546,"Best Years of Our Lives, The (1946)"
+310,56,7156,2.951970081481684,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)"
+316,56,7396,2.9278199017886104,Scenes From a Marriage (Scener ur ett äktenskap) (1973)
+41,56,858,2.832330072887176,"Godfather, The (1972)"
+226,56,3365,2.3214943755088577,"Searchers, The (1956)"
+124,56,1244,1.1932492692901215,Manhattan (1979)
+305,56,7099,1.0981211728807214,Nausicaä of the Valley of the Winds (Kaze no tani no Naushika) (1984)
+265,56,5059,1.0,Little Dieter Needs to Fly (1997)
+314,56,7327,1.0,Persona (1966)
+29,56,602,1.0,"Great Day in Harlem, A (1994)"
